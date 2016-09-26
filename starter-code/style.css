@@ -47,6 +47,11 @@ p {
 	width: 50%;
 }
 
+img {
+	height: 200px;
+	width: 150px;
+	border-radius: 10px;
+}
 .card {
 	height: 200px;
 	width: 150px;
